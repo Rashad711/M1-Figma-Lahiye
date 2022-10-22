@@ -1,0 +1,196 @@
+@media only screen and (max-width: 1225px) {
+    .section-last {
+        padding: 103px 0px 107px;
+    }
+
+    .last-title h2 {
+        font-size: 32px;
+        padding-bottom: 31px;
+    }
+
+    .new-info p:first-child {
+        font-size: 14px;
+        padding-bottom: 0;
+    }
+
+    .new-info span {
+        font-size: 46px;
+    }
+
+    .last-box {
+        padding-top: 36px;
+    }
+
+    .one,
+    .two {
+        width: 170px;
+    }
+
+    .one h4,
+    .two h4 {
+        font-size: 14px;
+        margin: 0px 0px 10px;
+    }
+
+    .one p,
+    .two p {
+        font-size: 10px;
+    }
+
+    .one {
+        margin-right: 40px;
+    }
+
+    .footer {
+        padding: 50px 0px 42px;
+    }
+
+    .footer-img img {
+        width: 66.6px;
+        height: 39.38px;
+    }
+
+    .social a img {
+        width: 20.27px;
+        height: 20.27px;
+    }
+
+    .social {
+        padding: 17px 0px 0px;
+        gap: 14px;
+    }
+
+    .phone {
+        padding: 0px 0px 20px;
+    }
+
+    .phone,
+    .email {
+        gap: 12px;
+    }
+
+    .phone img {
+        width: 15.64px;
+        height: 15.64px;
+    }
+
+    .email img {
+        width: 15.64px;
+        height: 10.43px;
+    }
+
+    .phone p,
+    .email p {
+        font-size: 14px;
+    }
+
+    .last-info p {
+        padding-top: 84px;
+        font-size: 10px;
+    }
+
+    .section-six {
+        padding: 62px 0px 67px;
+    }
+
+    .last-title h2 {
+        font-size: 26px;
+        padding-bottom: 28px;
+    }
+
+    .new-info p:first-child {
+        font-size: 12px;
+    }
+
+    .new-info span {
+        font-size: 37px;
+    }
+
+    .last-box {
+        padding-top: 30px;
+    }
+
+    .one,
+    .two {
+        width: 140px;
+    }
+
+    .one h4,
+    .two h4 {
+        font-size: 12px;
+        margin: 0px 0px 7px;
+    }
+
+    .one p,
+    .two p {
+        font-size: 10px;
+    }
+
+    .one {
+        margin-right: 31px;
+    }
+
+    .footer {
+        padding: 50px 0px 42px;
+    }
+
+    .footer-area {
+        display: block;
+    }
+
+    .footer-img img {
+        width: 53.59px;
+        height: 31.69px;
+    }
+
+    .social a img {
+        width: 16.31px;
+        height: 16.31px;
+    }
+
+    .social {
+        padding: 14px 0px 0px;
+        gap: 11.65px;
+    }
+
+    .contact {
+        padding-top: 50px;
+    }
+
+    .phone {
+        padding: 0px 0px 6px;
+    }
+
+    .phone,
+    .email {
+        gap: 10px;
+    }
+
+    .phone img {
+        width: 12.58px;
+        height: 12.58px;
+    }
+
+    .email img {
+        width: 12.58px;
+        height: 8.39px;
+    }
+
+    .phone p,
+    .email p {
+        font-size: 12px;
+    }
+
+    .last-info p {
+        padding-top: 48px;
+        font-size: 10px;
+    }
+
+    .container {
+        max-width: 1198px;
+        margin: 0px auto;
+        padding: 0 4%;
+    }
+    .row {
+        display: flex;
+    }

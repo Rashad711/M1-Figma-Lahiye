@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+.section-last {
+    background: #9dc9c8;
+    padding: 179px 0px 185px;
+  }
+  
+  .last-title h2 {
+    font-family: "Roboto Slab";
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+    padding-bottom: 54px;
+  }
+  
+  .new-info p:first-child {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #000000;
+    padding-bottom: 5px;
+  }
+  
+  .new-info span {
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 101.38%;
+    color: #000000;
+  }
+  
+  .last-box {
+    display: flex;
+    padding-top: 61px;
+  }
+  
+  .one,
+  .two {
+    width: 294px;
+  }
+  
+  .one h4,
+  .two h4 {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #000000;
+    margin: 0px 0px 15px;
+  }
+  
+  .one p,
+  .two p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    color: #000000;
+  }
+  
+  .one {
+    margin-right: 70px;
+  }
+  .footer {
+    background: #000000;
+    padding: 50px 0px 42px;
+  }
+  
+  .footer-area {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .social {
+    display: flex;
+    padding: 30px 0px 0px;
+    gap: 25px;
+  }
+  
+  .phone {
+    padding: 0px 0px 20px;
+  }
+  
+  .phone,
+  .email {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+  }
+  
+  .phone p,
+  .email p {
+    color: #fff;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+  }
+  
+  .last-info p {
+    padding-top: 146px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    color: #ffffff;
+  }
